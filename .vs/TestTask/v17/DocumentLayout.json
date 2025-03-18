@@ -38,8 +38,7 @@
               "RelativeToolTip": "Assets\\Scripts\\ObjectMover.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwDQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T21:53:34.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T21:53:34.156Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
               "ToolTip": "C:\\Users\\Tony\\TestTask\\Assets\\Scripts\\GameController.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwDIAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T22:39:40.554Z",
               "EditorCaption": ""
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Assets\\Scripts\\movableObject.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T22:04:02.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T22:04:02.926Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Assets\\Scripts\\backpack.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T22:01:10.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T22:01:10.716Z"
             }
           ]
         }

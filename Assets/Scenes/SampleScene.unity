@@ -964,7 +964,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.392}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1423,6 +1423,7 @@ MonoBehaviour:
   spherePrefab: {fileID: 3059618987774392837, guid: 35003a6acc507a144b8559724f18b7f7, type: 3}
   boxPrefab: {fileID: 2982401941220325393, guid: c0ff3584a9b783941b7344fa63fa8611, type: 3}
   torusPrefab: {fileID: 4872445920683980263, guid: 25cb52e2346ced9408bac29635fc5317, type: 3}
+  lastObject: {fileID: 0}
 --- !u!1 &2135656915
 GameObject:
   m_ObjectHideFlags: 0

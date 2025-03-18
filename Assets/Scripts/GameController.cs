@@ -51,10 +51,10 @@ public class GameController : MonoBehaviour
         // POST request creation
         var dataToPost = new PostData() { action = action, itemID = bp.lastObject.GetComponent<movableObject>().id };
         var postRequest = CreateRequest("https://wadahub.manerai.com/api/inventory/status", RequestType.POST, dataToPost);
-        AttachHeader(postRequest, "Bearer Token", "kPERnYcWAY46xaSy8CEzanosAgsWM84Nx7SKM4QBSqPq6c7StWfGxzhxPfDh8MaP");
+        AttachHeader(postRequest, "Bearer%20Token", "kPERnYcWAY46xaSy8CEzanosAgsWM84Nx7SKM4QBSqPq6c7StWfGxzhxPfDh8MaP");
         yield return postRequest.SendWebRequest();
         var deserializedPostData = JsonUtility.FromJson<PostResult>(postRequest.downloadHandler.text);
-        Debug.Log(postRequest.downloadHandler.text);
+        //Debug.Log(postRequest.downloadHandler.text);
         // Trigger continuation of game flow
     }
 

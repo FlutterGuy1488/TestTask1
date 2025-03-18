@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Tony\\TestTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED558555-7CFE-1154-77C4-81942055D01A}|Assembly-CSharp.csproj|C:\\Users\\Tony\\TestTask\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED558555-7CFE-1154-77C4-81942055D01A}|Assembly-CSharp.csproj|c:\\users\\tony\\testtask\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED558555-7CFE-1154-77C4-81942055D01A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectMover.cs",
               "ToolTip": "C:\\Users\\Tony\\TestTask\\Assets\\Scripts\\ObjectMover.cs",
               "RelativeToolTip": "Assets\\Scripts\\ObjectMover.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwDQAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T21:53:34.156Z",
               "EditorCaption": ""
@@ -49,7 +49,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
               "ToolTip": "C:\\Users\\Tony\\TestTask\\Assets\\Scripts\\GameController.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAADwvzoAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T22:39:40.554Z",
               "EditorCaption": ""
@@ -75,7 +75,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\backpack.cs",
               "ToolTip": "C:\\Users\\Tony\\TestTask\\Assets\\Scripts\\backpack.cs",
               "RelativeToolTip": "Assets\\Scripts\\backpack.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAvwEYAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T22:01:10.716Z",
               "EditorCaption": ""
